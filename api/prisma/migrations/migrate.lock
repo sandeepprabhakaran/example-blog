@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20200519151236-create-schema
+20200819062044-migration
+20200819063608-migration
